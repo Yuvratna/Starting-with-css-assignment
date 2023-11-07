@@ -1,0 +1,13 @@
+html {
+    background-color: black;
+    font-size: 30px;
+}
+
+  
+  .int__external {
+    color: green;
+  }
+  
+  .inline__internal__external {
+    color: bisque;
+  }
